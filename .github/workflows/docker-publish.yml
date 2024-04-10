@@ -7,7 +7,7 @@ on:
 
 env:
   # Use docker.io for Docker Hub if empty
-  IMAGE_NAME: brainupgrade/gitops-apps-hello    
+  IMAGE_NAME: nithink24/gitops-apps-hello    
 
 jobs:
   build-and-deploy:
